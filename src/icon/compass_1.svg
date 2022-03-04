@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.3, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="katman_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:url(#SVGID_1_);stroke:#E5E7EB;stroke-width:2;stroke-miterlimit:10;}
+	.st1{fill:url(#SVGID_2_);stroke:#FFFFFF;stroke-width:0.5;stroke-miterlimit:10;}
+</style>
+<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="22.9992" y1="-730.5186" x2="41.0008" y2="-761.7014" gradientTransform="matrix(1 0 0 -1 0 -714.11)">
+	<stop  offset="0" style="stop-color:#6B7280;stop-opacity:0.3"/>
+	<stop  offset="0.5003" style="stop-color:#6B7280;stop-opacity:0.4"/>
+	<stop  offset="1" style="stop-color:#374151;stop-opacity:0.5"/>
+</linearGradient>
+<circle class="st0" cx="32" cy="32" r="18"/>
+<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="25.0686" y1="809.954" x2="38.8521" y2="809.954" gradientTransform="matrix(1 0 0 1 0 -778)">
+	<stop  offset="0" style="stop-color:#F87171"/>
+	<stop  offset="0.45" style="stop-color:#F87171"/>
+	<stop  offset="1" style="stop-color:#DC2626"/>
+</linearGradient>
+<path class="st1" d="M38.7,41.3l-6.4-19.2c0-0.1-0.2-0.3-0.3-0.3c-0.2,0-0.3,0.1-0.3,0.1l0,0l-6.6,19.8c0,0.2-0.1,0.5,0.5,0.4l6.2-2
+	c0.2,0,0.3,0,0.5,0l6.2,2C39.2,42.2,38.7,41.3,38.7,41.3z">
+<animateTransform  accumulate="none" additive="replace" attributeName="transform" calcMode="spline" dur="1s" fill="remove" keySplines="0.5 0 0.5 1; 0.5 0 0.5 1" repeatCount="indefinite" restart="always" type="rotate" values="-3 32 32;3 32 32;-3 32 32">
+		</animateTransform>
+</path>
+</svg>
